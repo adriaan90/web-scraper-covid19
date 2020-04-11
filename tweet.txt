@@ -1,0 +1,11 @@
+#COVID19 stats 2020-04-11:
+           
+UK:           
+Cases: 73,758 ()           
+Deaths: 8,958 ()           
+Growth factor: 0
+           
+World:           
+Cases: 1,715,580 (+16,745)           
+Deaths: 103,841 (+1,157)           
+Growth factor: 0.18
